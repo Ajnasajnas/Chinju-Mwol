@@ -136,7 +136,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ Julie Mwol working!')
+            chalk.green.bold('🧚‍♂️CHINJUMWOL🧚‍♂️ Runing!')
         );
     });
     
@@ -261,8 +261,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ 𝕁𝕦𝕝𝕚𝕖𝕄𝕨𝕠𝕝 ~______~*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n'
+                                await conn.sendMessage(conn.user.jid, '*~_________~ ℂ𝕙𝕚𝕟𝕛𝕦𝕄𝕨𝕠𝕝 ~______~*' +
+                                    '\n\n*🧚‍♂️' + error + '*\n'
                                     , MessageType.text);
                             }
                         }
